@@ -18,6 +18,9 @@ Social media is important for every business, but if your accounts are hacked, i
 ## C. Instagram security Settings and permission you may use in your account
    #### Follow this link link below to learn more on protecting your instagram account
    * https://help.instagram.com/196883487377501
+## D. Linkedin SEcurity settings and Tips for your account
+##### Follow this link to see on how you may customize you privacy setings for your linkedin acount
+* https://www.linkedin.com/help/linkedin/answer/66?lang=en
 
 ## Follow these tips to keep your social media accounts secure from  hackers.
 
