@@ -4,7 +4,12 @@ How to Secure Your Business's Social Media Accounts
   Social media is a key part of a company's marketing strategy. Keeping social accounts secure protects brand integrity.
 Strong passwords and changing passwords often are two ways to secure pages.
 To protect social media accounts, businesses should develop company wide policies and a chain of command to address problems. 
-Social media is important for every business, but if your accounts are hacked, it can cause serious damage to your business and its reputation. It's important to keep your accounts secure and your information safe. If you take the right steps, you can secure your social media accounts from unwelcome hackers. Here are 10 best practices to follow.   
+Social media is important for every business, but if your accounts are hacked, it can cause serious damage to your business and its reputation. It's important to keep your accounts secure and your information safe. If you take the right steps, you can secure your social media accounts from unwelcome hackers. Here are 10 best practices to follow. 
+## Facebook Basic Privacy Settings and Tools
+ Facebook is the one most used social media platform where people share their events, photos, videos, Businesses. So it is a best way for hackers to collect some information on your social medi accounts and use it as a point to start when planning to attack you.
+ 
+ ##### Follow the link below to know some security basics when using Facebook
+  * https://web.facebook.com/help/325807937506242/?_rdc=1&_rdr
 
 ## Follow these tips to keep your social media accounts secure from  hackers.
 
