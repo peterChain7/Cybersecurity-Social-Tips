@@ -15,6 +15,10 @@ Social media is important for every business, but if your accounts are hacked, i
  ##### Follow the link below to know some security basics when using Tiwtter
    * https://help.twitter.com/en/safety-and-security/public-and-protected-tweets
 
+## C. Instagram security Settings and permission you may use in your account
+   #### Follow this link link below to learn more on protecting your instagram account
+   * https://help.instagram.com/196883487377501
+
 ## Follow these tips to keep your social media accounts secure from  hackers.
 
 ### 1. Choose a strong password.
