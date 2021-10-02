@@ -1,6 +1,6 @@
 # How to Secure Your Business's Social Media
 ## Most used social medias 
-   ![]/images/social medial.jpeg
+   ![](images/medial.jpeg) <br> *Most used social media*
 <br> <br>
 ## Problem statemnt
   Social media is a key part of a company's marketing strategy. Keeping social accounts secure protects brand integrity.
