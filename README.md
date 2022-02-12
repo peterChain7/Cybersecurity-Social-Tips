@@ -36,7 +36,7 @@ In addition, you should avoid signing in to multiple accounts through one social
 
 "Facebook will often allow you to sign in to Instagram and various other social media platforms with the same 'account,'" she said. "Try not to use your Facebook account to sign in to anything other than Facebook."  
 
-###2.  Change your passwords often.
+### 2.  Change your passwords often.
 
 It's advisable to change the passwords for both your personal and your business social media accounts frequently. You should change your passwords at least once a quarter and when an employee leaves the company.   
 
